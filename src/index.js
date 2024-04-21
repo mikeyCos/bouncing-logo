@@ -1,5 +1,5 @@
-import test from './components/test';
+import logo from './components/logo';
 import './index.css';
+import '@iconfu/svg-inject';
 
-test.print();
-document.body.appendChild(test.render());
+document.body.appendChild(logo.render());

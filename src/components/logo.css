@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  max-width: 15%;
+}
+
+.logo_text {
+  fill: rgb(232, 0, 0);
+}
+
+.logo_background {
+  fill: rgb(0, 0, 0);
+}
